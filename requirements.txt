@@ -1,8 +1,3 @@
-<<<<<<< HEAD
 streamlit
 PyPDF2
-=======
-streamlit
-PyPDF2
->>>>>>> 5edbdfd0dc0f5313578f080af34a14d4f6c40373
 reportlab
